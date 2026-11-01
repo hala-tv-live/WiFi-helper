@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network Security Lab</string>
+    <string name="disclaimer_title">إخلاء المسؤولية والتصريح الأمني</string>
+    <string name="disclaimer_body">استخدم هذا التطبيق فقط على الشبكات والأجهزة التي تملكها أو لديك تصريح صريح لاختبارها. أي استخدام غير مصرح به قد يكون مخالفاً للقانون. هذا التطبيق مخصص للتشخيص والتدقيق الأمني الدفاعي فقط.</string>
+    <string name="btn_accept">أوافق وأتحمل المسؤولية</string>
+    <string name="btn_decline">رفض وإغلاق</string>
+</resources>

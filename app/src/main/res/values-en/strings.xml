@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network Security Lab</string>
+    <string name="disclaimer_title">Legal Disclaimer &amp; Authorization</string>
+    <string name="disclaimer_body">Use this application only on networks and devices you own or have explicit authorization to test. Any unauthorized scanning or access may violate applicable laws. This tool is designed strictly for defensive security diagnostics.</string>
+    <string name="btn_accept">I Agree &amp; Accept Responsibility</string>
+    <string name="btn_decline">Decline &amp; Exit</string>
+</resources>

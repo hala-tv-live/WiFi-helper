@@ -1,0 +1,22 @@
+{
+  "name": "network-security-lab",
+  "version": "1.0.0",
+  "description": "Network Security Lab - Native Android application for local network auditing and diagnostics",
+  "private": true,
+  "main": "app/src/main/java/com/example/MainActivity.kt",
+  "scripts": {
+    "build": "gradle assembleDebug",
+    "test": "gradle :app:testDebugUnitTest",
+    "lint": "gradle :app:lintDebug"
+  },
+  "keywords": [
+    "android",
+    "kotlin",
+    "jetpack-compose",
+    "network-scanner",
+    "security-audit",
+    "cve-scanner"
+  ],
+  "author": "Network Security Lab",
+  "license": "Apache-2.0"
+}

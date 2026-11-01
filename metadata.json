@@ -1,0 +1,8 @@
+{
+  "name": "Network Security Lab",
+  "description": "Defensive network scanner, port auditor, and diagnostic laboratory for authorized local security assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
